@@ -7,7 +7,7 @@ Classifies accidents into three categories:
 - 🟠 **Serious**  
 - 🟢 **Slight**
 
-**🔗 Live Demo:** [Open Streamlit App](https://share.streamlit.io/<your-username>/<repo-name>/main/app.py)
+**🔗 Live Demo:** [Open Streamlit App](https://traffic-accident-severity-prediction-2vcreydjyaolnv9vzrxcun.streamlit.app)
 
 ---
 
